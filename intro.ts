@@ -13,3 +13,8 @@ add.addEventListener("click",()=>{
     cl(Addition(+num1.value, +num2.value))
 })
 
+
+
+
+
+
